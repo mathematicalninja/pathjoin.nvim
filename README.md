@@ -7,9 +7,9 @@ local pathjoin = require("pathjoin").join
 
 path = pathjoin(vim.fn.stdpath("data"), "Mason", "lua")
 print(path)
-
+```
 # Fast load time.
-```<img width="355" height="91" alt="image" src="https://github.com/user-attachments/assets/9a75f604-3e0d-4cbc-8109-9998e06dbff9" />
+<img width="355" height="91" alt="image" src="https://github.com/user-attachments/assets/9a75f604-3e0d-4cbc-8109-9998e06dbff9" />
 
 
 # Installation
