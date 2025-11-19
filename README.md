@@ -17,6 +17,9 @@ I setup using Lazy, if you want to try other package managers and find bugs, let
 
 ```lua
 {
-"mathematicalninga/pathjoin.nvim",
+    dependencies = {
+        -- system agnostic path joining.
+        "mathematicalninga/pathjoin.nvim",
+    },
 }
-
+```
